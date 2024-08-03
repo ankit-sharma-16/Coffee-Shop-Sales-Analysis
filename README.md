@@ -17,7 +17,7 @@ The coffee shop is struggling to understand its sales performance. The specific 
 <li>The goal is to analyze these aspects to identify key drivers of sales and areas for improvement.</li>
 
 ## Tools Used
-<li><b>MySQL:</b> For storing and querying sales data.</li>
+<li><b>PostgreSQL:</b> For storing and querying sales data.</li>
 <li><b>Excel:</b> For initial data cleaning and preparation.</li>
 <li><b>Power BI:</b> For data visualization and exploratory data analysis (EDA).</li>
 
