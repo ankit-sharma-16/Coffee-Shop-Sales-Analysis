@@ -69,7 +69,7 @@ Utilized PostgreSql and DAX to make measures and calculations for Total sales, T
 <li>How does sales performance vary by days and hours?</li>
 
 ## Result
-![image](https://github.com/Hari-Vijayaraghavan96/Coffee-Shop-Sales-Analysis/assets/163993617/8072950b-9045-4817-ad46-31299bb68ca3)
+![image](https://github.com/ankit-sharma-16/Coffee-Shop-Sales-Analysis/blob/main/Coffee_shop_sales_report-1.pdf)
 
 ## Recommendations
 Based on the analysis, the following insights and recommendations were derived:
