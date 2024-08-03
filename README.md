@@ -22,7 +22,7 @@ The coffee shop is struggling to understand its sales performance. The specific 
 <li><b>Power BI:</b> For data visualization and exploratory data analysis (EDA).</li>
 
 ## Data Sources
-<li><b>MySQL Database:</b> Contains sales data with columns including date, product, location, sales amount, quantity sold, order ID, etc.</li>
+<li><b>PostgreSQL Database:</b> Contains sales data with columns including date, product, location, sales amount, quantity sold, order ID, etc.</li>
 <li><b>Excel Files:</b> Used for additional data preparation and cleaning tasks.</li>
 
 ## Data Cleaning and Analysis
@@ -42,8 +42,8 @@ Data cleaning was performed in Excel and transformed into power bi power query t
 <li><b>Data Validation:</b> Implemented data validation rules to ensure data quality and accuracy.</li>
 <li><b>Data Transformation:</b> Utilized Power Query Editor to perform data cleaning operations such as removing duplicates, filtering rows, and transforming data types.</li>
 
-### MySql & DAX
-Utilized MySql and DAX to make measures and calculations for Total sales, Total orders, Total quantity sold, Sales analysis by weekdays and weekends, Sales analysis by store location, Daily sales with average line, Sales analysis by product category, Sales analysis by days and hours.
+### PostgreSql & DAX
+Utilized PostgreSql and DAX to make measures and calculations for Total sales, Total orders, Total quantity sold, Sales analysis by weekdays and weekends, Sales analysis by store location, Daily sales with average line, Sales analysis by product category, Sales analysis by days and hours.
 
 ## Visualization Used in Power BI
 <li><b>Total Sales Analysis:</b> Card and line chart to visualize total sales over different time periods.</li>
